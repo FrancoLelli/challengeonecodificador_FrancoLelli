@@ -9,6 +9,7 @@ body {
     width: 100%;
     height: 100vh;
     background-color: #E5E5E5;
+    font-family: 'Roboto', 'Sans-serif';
 }
 
 .logo-mobile {
@@ -127,6 +128,8 @@ textarea::placeholder {
 p {
     max-width: 100%;
     overflow-y: scroll;
+    color: #0A3871;
+    font-size: 2rem;
 }
 
 @media only screen and (max-width: 1075px) {
